@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects that i can put on my cv
 - 📫 How to reach me: my home and my student email danilchenko.ilya2005@gmail.com, 282633@student.pwr.edu.pl
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I never do things first try, like literaly never
+- ⚡ Fun fact: I like yogurt
 
 <!---
 Hanzoze/Hanzoze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
