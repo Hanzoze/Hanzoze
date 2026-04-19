@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Python, JavaScript, Java
 - 💞️ I’m looking for a job or internship
-- 📫 How to reach me: my home and my student email danilchenko.ilya2005@gmail.com
+- 📫 How to reach me: my home email danilchenko.ilya2005@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like yoghurt
 
